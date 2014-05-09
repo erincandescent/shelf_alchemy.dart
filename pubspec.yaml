@@ -1,0 +1,10 @@
+name: shelf_alchemy
+version: 0.1.0
+author: Owen Shepherd <*@owenshepherd.net>
+description: Shelf & Alchemy integration
+homepage: https://github.com/oshepherd/shelf_alchemy.dart
+dependencies:
+  alchemy:
+    path: ../alchemy
+  shelf: '>=0.5.0 <0.6.0'
+  stack_trace: '>=0.9.3+1 <0.10.0'
